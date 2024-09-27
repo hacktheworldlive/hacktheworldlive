@@ -16,12 +16,7 @@
 - Any exciting tech projects that push the boundaries of innovation
 
 ## 📫 How to reach me:
-- Email: [your_email@example.com](mailto:your_email@example.com)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-
-## 😄 Pronouns:
-- [Your Pronouns]
+- NULL
 
 ## ⚡ Fun fact:
 - I enjoy solving puzzles and challenges in my spare time, especially related to coding and cybersecurity!
