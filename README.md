@@ -7,6 +7,8 @@
 
 ## 🌱 I’m currently learning:
 - Advanced Python programming
+- C & C++ syntax
+- Cyber Security
 - Frameworks like Laravel and Django
 - Security best practices in web development
 
